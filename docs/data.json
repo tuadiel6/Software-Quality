@@ -1,0 +1,582 @@
+{
+  "nodes": [
+         { "id": "Complexity_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Size_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Understandability_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, Fostering software quality assessment" ,"importance": "13"
+         },
+         { "id": "Satisfaction_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "PMD_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "FindBugs_A" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Accessibility" , "group": 2 , "evidence": "" },
+         { "id": "Accountability" , "group": 2 , "evidence": "" },
+         { "id": "Accuracy" , "group": 2 , "evidence": "" },
+         { "id": "Adaptability" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Analysability" , "group": 2 , "evidence": " Standardized code quality benchmarking for improving software maintainability, Achieving quality in open-source software, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "549"
+         },
+         { "id": "Applicability" , "group": 2 , "evidence": "" },
+         { "id": "Attractiveness" , "group": 2 , "evidence": "" },
+         { "id": "Augmentability" , "group": 2 , "evidence": "" },
+         { "id": "Availability" , "group": 2 , "evidence": "" },
+         { "id": "Changeability" , "group": 2 , "evidence": " Standardized code quality benchmarking for improving software maintainability, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "246"
+         },
+         { "id": "Cohesion" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+         },
+         { "id": "Communicativeness" , "group": 2 , "evidence": "" },
+         { "id": "Compatibility" , "group": 2 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+         },
+         { "id": "Completeness" , "group": 2 , "evidence": "" },
+         { "id": "Complexity" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, A systematic review of quality attributes and measures for software product lines, Early estimation of software quality using in-process testing metrics: a controlled case study, Experiences of software quality management using metrics through the life-cycle" ,"importance": "213"
+         },
+         { "id": "Compliance" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Consiseness" , "group": 2 , "evidence": "" },
+         { "id": "Consistency" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Cyclomaticcomplexity" , "group": 2 , "evidence": "" },
+         { "id": "C_Programs" , "group": 2 , "evidence": " Practice of quality modeling and measurement on software life-cycle" ,"importance": "8"
+         },
+         { "id": "Ease_of_use" , "group": 2 , "evidence": "" },
+         { "id": "Effectiveness" , "group": 2 , "evidence": "" },
+         { "id": "Efficiency" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+         },
+         { "id": "Fault_tolerance" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Functional_requirements" , "group": 2 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+         },
+         { "id": "Functional_suitability" , "group": 2 , "evidence": "" },
+         { "id": "Human_Engineering" , "group": 2 , "evidence": "" },
+         { "id": "Independence" , "group": 2 , "evidence": "" },
+         { "id": "Installability" , "group": 2 , "evidence": "" },
+         { "id": "Integrity" , "group": 2 , "evidence": "" },
+         { "id": "Interoperability" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Learnability" , "group": 2 , "evidence": " Achieving quality in open-source software, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "341"
+         },
+         { "id": "Legibility" , "group": 2 , "evidence": "" },
+         { "id": "Maintainability" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines, Achieving quality in open-source software" ,"importance": "403"
+         },
+         { "id": "Maturity" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "140"
+         },
+         { "id": "Modifiability" , "group": 2 , "evidence": "" },
+         { "id": "Modularity" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines, Achieving quality in open-source software" ,"importance": "403"
+         },
+         { "id": "Operability" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Performance" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines, Quality specification and metrication, results from a case-study in a mission-critical software domain" ,"importance": "121"
+         },
+         { "id": "Portability" , "group": 2 , "evidence": "" },
+         { "id": "Productivity" , "group": 2 , "evidence": "" },
+         { "id": "Recoverability" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Redundancy" , "group": 2 , "evidence": "" },
+         { "id": "Reliability" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method, Software quality: the elusive target [special issues section]" ,"importance": "1008"
+         },
+         { "id": "Resource_Utilization" , "group": 2 , "evidence": "" },
+         { "id": "Reusability" , "group": 2 , "evidence": " A systematic review of quality attributes and measures for software product lines, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "102"
+         },
+         { "id": "Robustness" , "group": 2 , "evidence": "" },
+         { "id": "Safety" , "group": 2 , "evidence": "" },
+         { "id": "Satisfaction" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "35"
+         },
+         { "id": "Security" , "group": 2 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+         },
+         { "id": "Self_Containedness" , "group": 2 , "evidence": "" },
+         { "id": "Self_Descriptiveness" , "group": 2 , "evidence": "" },
+         { "id": "Size" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, A systematic review of quality attributes and measures for software product lines, Early estimation of software quality using in-process testing metrics: a controlled case study, Experiences of software quality management using metrics through the life-cycle, Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "230"
+         },
+         { "id": "Stability" , "group": 2 , "evidence": " Standardized code quality benchmarking for improving software maintainability, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "246"
+         },
+         { "id": "StakeholdersInfo" , "group": 2 , "evidence": " Fostering software quality assessment" ,"importance": "7"
+         },
+         { "id": "Structuredness" , "group": 2 , "evidence": "" },
+         { "id": "Technical_accessibility" , "group": 2 , "evidence": "" },
+         { "id": "Testability" , "group": 2 , "evidence": " Standardized code quality benchmarking for improving software maintainability, Achieving quality in open-source software, Driving software quality: How test-driven development impacts software quality, Early estimation of software quality using in-process testing metrics: a controlled case study, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "733"
+         },
+         { "id": "Time_behavior" , "group": 2 , "evidence": "" },
+         { "id": "Timeliness" , "group": 2 , "evidence": "" },
+         { "id": "Transparency" , "group": 2 , "evidence": "" },
+         { "id": "Understandability" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, A systematic review of quality attributes and measures for software product lines, Achieving quality in open-source software, The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "447"
+         },
+         { "id": "Usability" , "group": 2 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study, Software quality: the elusive target [special issues section]" ,"importance": "999"
+         },
+         { "id": "Userfriendliness" , "group": 2 , "evidence": "" },
+  { "id": "Code_Complexity" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Number_of_Code_Smells" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Comment_Density" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "User_Reviews" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "PMD_Quality_Metrics" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Find_Bug_Quality_Metrics" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Individual_Information" , "group": 1 , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "id": "Stakeholder_Context" , "group": 1 , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "id": "Technical_Context" , "group": 1 , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "id": "Context_Sensitive" , "group": 1 , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "id": "Binary_size" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_the_source_code" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Performance_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_diagrams" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_an_architecture" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_a_use_case" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_a_use_case_diagram" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Maintainability_Index" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Reusability_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Reusability_of_the_architecture" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Applicability_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Understandability_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Efficiency_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Effort_required_for_changes" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Size_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Maturity_M" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Configuration_Complexity" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Modularity_of_the_architecture" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Customizability" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Internal_cohesion" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Coherence" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Volume" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Redundancy" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Unit_size" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Unit_complexity" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Unit_interface_size" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Module_coupling" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "Maintainability_M" , "group": 1 , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "id": "ESQUT" , "group": 1 , "evidence": " Practice of quality modeling and measurement on software life-cycle" ,"importance": "8"
+  },
+  { "id": "Code_documentation" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Sustainable_community" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Code_modularity" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Code_goes_through_code_eviews" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Tests" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Tutorials" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Test_driven_development" , "group": 1 , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "id": "Project_creole" , "group": 1 , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "id": "Customer_satisfaction" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Functional_requirements_M" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Usability" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Architecture_design" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Team_work" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Test_quantification_SM1" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Test_quantification_SM2" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Test_quantification_SM3" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Test_quantification_SM4" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Cyclomatic_complexity" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "CBO" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "DIT" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "WMC" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Relative_size_adjustment" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "consistency" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "independence" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "modularity" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "documentation" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "self_descriptiveness" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "anomaly_control" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "design_simplicity" , "group": 1 , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "id": "quality" , "group": 1 , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "id": "reliability_M" , "group": 1 , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "id": "usability_M" , "group": 1 , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "id": "defect_counts" , "group": 1 , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "id": "rework_costs" , "group": 1 , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "id": "Code_complexity" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_file_level_number_of_modules" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_file_level_number_of_total_steps" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_file_level_number_of_imports" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_steps" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_conditions" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_loops" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_arguments" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_comments" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_module_level_number_of_procedures" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_system_level_number_of_modules" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "At_system_level_number_of_procedures" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "eta1" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "eta2" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "n1" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "n2" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "stms" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "loc" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "comments" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "nodes" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "edges" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "paths" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "cycles" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "maxpath" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "avepath" , "group": 1 , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "id": "internal_quality_view" , "group": 1 , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "id": "external_quality_view" , "group": 1 , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "id": "quality_in_use_view" , "group": 1 , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "id": "Software_Maturity_Levels" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Reuse_Readiness_Levels" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Capability_Maturity_Levels" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Technology_Readiness_Levels" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Documentation_Standard" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  }
+  ],
+  "links": [
+  { "source": "Adaptability", "target":"independence"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Analysability", "target":"Volume"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Analysability", "target":"Redundancy"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Analysability", "target":"Unit_size"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Analysability", "target":"Code_documentation"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Analysability", "target":"documentation"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Analysability", "target":"self_descriptiveness"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Analysability", "target":"design_simplicity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Analysability", "target":"Maintainability_M"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Analysability", "target":"Code_goes_through_code_eviews"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Analysability", "target":"Documentation_Standard"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Applicability", "target":"Applicability_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Changeability", "target":"Redundancy"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Changeability", "target":"Unit_complexity"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Changeability", "target":"Module_coupling"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Changeability", "target":"independence"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Changeability", "target":"modularity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Changeability", "target":"design_simplicity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Changeability", "target":"Effort_required_for_changes"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Changeability", "target":"Maintainability_M"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Cohesion", "target":"Internal_cohesion"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Cohesion", "target":"Coherence"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Compatibility", "target":"Unit_complexity"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Complexity", "target":"Code_Complexity"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Complexity", "target":"Complexity_of_the_source_code"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Complexity_of_diagrams"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Complexity_of_an_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Complexity_of_a_use_case"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Complexity_of_a_use_case_diagram"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Configuration_Complexity"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Complexity", "target":"Cyclomatic_complexity"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Complexity", "target":"CBO"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Complexity", "target":"DIT"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Complexity", "target":"WMC"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Complexity", "target":"Relative_size_adjustment"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Complexity", "target":"Code_complexity"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Compliance", "target":"anomaly_control"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Consistency", "target":"consistency"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "C_Programs", "target":"ESQUT"  , "evidence": " Practice of quality modeling and measurement on software life-cycle" ,"importance": "8"
+  },
+  { "source": "Efficiency", "target":"Efficiency_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Fault_tolerance", "target":"anomaly_control"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Functional_requirements", "target":"Functional_requirements_M"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Interoperability", "target":"independence"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Learnability", "target":"Code_documentation"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Learnability", "target":"documentation"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Learnability", "target":"Documentation_Standard"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Maintainability", "target":"Maintainability_Index"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Reusability_of_the_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Sustainable_community"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Maintainability", "target":"rework_costs"  , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "source": "Maturity", "target":"Maturity_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maturity", "target":"anomaly_control"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Maturity", "target":"Software_Maturity_Levels"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Maturity", "target":"Capability_Maturity_Levels"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Maturity", "target":"Technology_Readiness_Levels"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Modularity", "target":"Modularity_of_the_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Modularity", "target":"Code_modularity"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Operability", "target":"self_descriptiveness"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Performance", "target":"Performance_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Recoverability", "target":"anomaly_control"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Reliability", "target":"anomaly_control"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Reliability", "target":"reliability_M"  , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "source": "Reusability", "target":"Reuse_Readiness_Levels"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Reusability", "target":"Reusability_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Reusability_of_the_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Architecture_design"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Satisfaction", "target":"User_Reviews"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Satisfaction", "target":"Customer_satisfaction"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Security", "target":"design_simplicity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Size", "target":"Number_of_Code_Smells"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Size", "target":"Binary_size"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Size", "target":"Size_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Size", "target":"Test_quantification_SM1"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Size", "target":"Test_quantification_SM2"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Size", "target":"Test_quantification_SM3"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Size", "target":"Test_quantification_SM4"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Size", "target":"At_file_level_number_of_modules"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_file_level_number_of_total_steps"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_file_level_number_of_imports"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_steps"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_conditions"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_loops"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_arguments"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_comments"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_module_level_number_of_procedures"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_system_level_number_of_modules"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"At_system_level_number_of_procedures"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Size", "target":"eta1"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"eta2"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"n1"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"n2"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"stms"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"loc"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"comments"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"nodes"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"edges"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"paths"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"cycles"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"maxpath"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"avepath"  , "evidence": " Controlling and predicting the quality of space shuttle software using metrics" ,"importance": "17"
+  },
+  { "source": "Size", "target":"defect_counts"  , "evidence": " Software quality: the elusive target [special issues section]" ,"importance": "970"
+  },
+  { "source": "Stability", "target":"Unit_interface_size"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Stability", "target":"Module_coupling"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Stability", "target":"design_simplicity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Stability", "target":"Maintainability_M"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "StakeholdersInfo", "target":"Individual_Information"  , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "source": "StakeholdersInfo", "target":"Stakeholder_Context"  , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "source": "StakeholdersInfo", "target":"Technical_Context"  , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "source": "StakeholdersInfo", "target":"Context_Sensitive"  , "evidence": " Fostering software quality assessment" ,"importance": "7"
+  },
+  { "source": "StakeholdersInfo", "target":"internal_quality_view"  , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "source": "StakeholdersInfo", "target":"external_quality_view"  , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "source": "StakeholdersInfo", "target":"quality_in_use_view"  , "evidence": " On the use of quality models to address distinct quality views" ,"importance": "3"
+  },
+  { "source": "Testability", "target":"Unit_size"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Testability", "target":"Unit_complexity"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Testability", "target":"Tests"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Testability", "target":"Test_driven_development"  , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "source": "Testability", "target":"Test_quantification_SM1"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"Test_quantification_SM2"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"Test_quantification_SM3"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"Test_quantification_SM4"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"modularity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Testability", "target":"design_simplicity"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Testability", "target":"Maintainability_M"  , "evidence": " Standardized code quality benchmarking for improving software maintainability" ,"importance": "208"
+  },
+  { "source": "Testability", "target":"Project_creole"  , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "source": "Understandability", "target":"Comment_Density"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Understandability", "target":"Understandability_M"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Understandability", "target":"Tutorials"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Understandability", "target":"self_descriptiveness"  , "evidence": " The evolution path for industrial software quality evaluation methods applying ISO/IEC 9126: 2001 quality model: example of MITRE’s SQAE method" ,"importance": "38"
+  },
+  { "source": "Usability", "target":"usability_M"  , "evidence": " Software quality: the elusive target [special issues section], Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "999"
+  }
+  ]
+}

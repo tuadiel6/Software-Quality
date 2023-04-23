@@ -1,0 +1,1092 @@
+{
+  "nodes": [
+         { "id": "Analysability" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Adaptability" , "group": 2 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+         },
+         { "id": "Attractiveness" , "group": 2 , "evidence": " CESSDA Software Maturity Levels (v1. 0), Modelling software quality in the commercial environment, Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "55"
+         },
+         { "id": "Availability" , "group": 2 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+         },
+         { "id": "Changeability" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Compatibility" , "group": 2 , "evidence": " Software Release Practice HOWTO, Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1279"
+         },
+         { "id": "Documentation" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Functional_Suitability" , "group": 2 , "evidence": " CESSDA Software Maturity Levels (v1. 0), EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, Software quality development and assurance in RUP, MSF and XP: a comparative study, Driving software quality: How test-driven development impacts software quality" ,"importance": "139"
+         },
+         { "id": "Ease_of_Use" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Installability" , "group": 2 , "evidence": " CESSDA Software Maturity Levels (v1. 0), EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, Quantitative evaluation of software quality" ,"importance": "1248"
+         },
+         { "id": "Interoperability" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Maintainability" , "group": 2 , "evidence": " CESSDA Software Maturity Levels (v1. 0), Software quality development and assurance in RUP, MSF and XP: a comparative study, Driving software quality: How test-driven development impacts software quality, Software Release Practice HOWTO, A set of common software quality assurance baseline criteria for research projects, Early estimation of software quality using in-process testing metrics: a controlled case study, Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications, Experiences of software quality management using metrics through the life-cycle, A systematic review of quality attributes and measures for software product lines, Quantitative evaluation of software quality, Modelling software quality in the commercial environment, Achieving quality in open-source software" ,"importance": "1933"
+         },
+         { "id": "Manageability" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Modifiability" , "group": 2 , "evidence": " Quantitative evaluation of software quality, Experiences of software quality management using metrics through the life-cycle" ,"importance": "1273"
+         },
+         { "id": "Operability" , "group": 2 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, Driving software quality: How test-driven development impacts software quality, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "110"
+         },
+         { "id": "Performance" , "group": 2 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+         },
+         { "id": "Portability" , "group": 2 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment, CESSDA Software Maturity Levels (v1. 0), Software Release Practice HOWTO" ,"importance": "1281"
+         },
+         { "id": "Reliability" , "group": 2 , "evidence": " Modelling software quality in the commercial environment, Early estimation of software quality using in-process testing metrics: a controlled case study, EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, A systematic review of quality attributes and measures for software product lines" ,"importance": "204"
+         },
+         { "id": "Resource_Utilization" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Reusability" , "group": 2 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment, A systematic review of quality attributes and measures for software product lines" ,"importance": "1368"
+         },
+         { "id": "Safety" , "group": 2 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+         },
+         { "id": "Security" , "group": 2 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "4"
+         },
+         { "id": "Stability" , "group": 2 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+         },
+         { "id": "Supportability" , "group": 2 , "evidence": " Software Release Practice HOWTO, EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects, A set of common software quality assurance baseline criteria for research projects, CESSDA Software Maturity Levels (v1. 0), Quantitative evaluation of software quality, Modelling software quality in the commercial environment, Achieving quality in open-source software" ,"importance": "1587"
+         },
+         { "id": "Technical_Accessibility" , "group": 2 , "evidence": " CESSDA Software Maturity Levels (v1. 0), Quantitative evaluation of software quality" ,"importance": "1246"
+         },
+         { "id": "Testability" , "group": 2 , "evidence": " Software Release Practice HOWTO, A set of common software quality assurance baseline criteria for research projects, Quantitative evaluation of software quality, Achieving quality in open-source software, Early estimation of software quality using in-process testing metrics: a controlled case study, Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "1643"
+         },
+         { "id": "Time_Behavior" , "group": 2 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+         },
+         { "id": "Usability" , "group": 2 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study, Modelling software quality in the commercial environment, CESSDA Software Maturity Levels (v1. 0), Quantitative evaluation of software quality, A systematic review of quality attributes and measures for software product lines" ,"importance": "1399"
+         },
+  { "id": "Acceptable_Usage_Policy" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Access_Policy_and_Terms_of_Use" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Accessbility" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Accountability" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Accuracy" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Adaptability_M" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Allow_Exceptions" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Architecture_Design" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Augmentability" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Aut_Deployment_IaC_Templates" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Aut_Deployment_Idempotent_Tests" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Aut_Deployment_Immutable_Infrastructures" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Aut_deployment_Specific_Testing_Frameworks" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Authentication_and_Authorisation" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Automated_code_style_compliance_testing" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Automated_Delivery" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Available_online" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Avoid_custom_code_style_guidelines" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Binary_size" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Build_systems" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "But_respect_local_conventions_where_appropriate" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Change_Branches" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Choose_the_most_portable_language_you_can" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Code_deployment" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Code_documentation" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Code_modularity" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Code_review_checks" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Code_review_functionality" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Code_reviews_peer_review" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Communicativeness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Completeness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Complexity_of_a_use_case" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_a_use_case_diagram" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_an_architecture" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_diagrams_for_the_whole_software_or_modules_components" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Complexity_of_the_source_code" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Compliance_with_de_facto_style_standard" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Compliant_with_OpenAPI_Specification_OAS" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Conciseness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Consistency" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Control_measure_to_counter_the_confounding_effect_of_class_size_on_the_prediction_efficiency" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Cost_Benefit_efficiency" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Coupling" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Coupling_between_objects_CBO_ratio" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Cumulative_metrics" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Customer_satisfaction" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Cyclomatic_Complexity_per_unit_McCabe" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Cyclomatic_complexity_test_source_ratio" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Defect_rates" , "group": 1 , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "id": "depth_of_inheritance_tree_DIT_ratio" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Development_Documentation" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Device_Independence" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Documentation_M" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Documentation_as_Code" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Documentation_Deployment_and_Administration" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_formats" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Documentation_Inaccuracy_and_Unclear_Documentation" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_License" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_Online" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_production" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Documentation_Target_Audience" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_Updates" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_updates_if_inaccurate_unclear" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Documentation_updates_with_new_software_versions" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Documentation_User" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Documentation_Version_controlled" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Dont_rely_on_proprietary_code" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Ease_of_transition" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Efficiency" , "group": 1 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "id": "Effort_required_for_changes" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Elasticity_testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "End_user_Documentation" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Estimated_rebuild_value" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Extensibility" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Files_Directories_presence" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Functional_requirements" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Functional_testing_Feature_disruptions" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_testing_Full_scope" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_testing_Pilot_Testbeds" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_tests_Automatic_checks" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_tests_Stress_testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_tests_Tests_provided_by_developers" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_tests_Varying_loads" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Functional_tests_Web_interface" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Good_communication_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_development_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_distribution_making_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_documentation_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_licensing_and_copyright_practice_the_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_licensing_and_copyright_practice_the_theory" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_patching_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_practice_recommendations" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_project_and_archive_naming_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Good_project_management_practice" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Have_a_README" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Human_Engineering" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Integrity" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Intellectual_Property" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Internal_cohesion" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Internationalisation_and_Localisation" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Issue_tracker" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Legibility" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Lightweight_and_Informal" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Lines_of_code_per_unit" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Maintainability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "id": "Maintainability_Index_MI_for_the_whole_for_a_module_component_for_the_architecture" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Make_sure_tarballs_always_unpack_into_a_single_new_directory" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Maturity" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Metadata_file_exists" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Metrics_Active_users" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Metrics_Computing_resources" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Metrics_Registered_users" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Metrics_Storage_resources" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Minimum_acceptable_code_coverage" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Modifiability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Modularity" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Monitoring_DAST" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Infrastructure" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Operational_Production_State" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Public_endpoints_and_APIs" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Security" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Service_public_APIs" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Service_Public_endpoints" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Service_Web_Interface" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Monitoring_Unit_tests" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "New_functionality" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Notification_upon_registration" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Number_of_Arguments" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "Number_of_assertions_number_of_test_cases" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Number_of_assertions_SLOC" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle, Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "107"
+  },
+  { "id": "Number_of_Comments" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Number_of_Conditions" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "Number_of_Include_Files" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "Number_of_incoming_calls_per_module" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Number_of_lines" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Number_of_Loops" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "Number_of_Modules" , "group": 1 , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "id": "Number_of_parameters_per_unit" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Number_of_Steps" , "group": 1 , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "id": "Number_of_test_cases_SLOC" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Official_repositories" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Open_and_collaborative" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Open_source_and_publicly_available" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Open_source_license" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Operational_Documentation" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Operational_Level_Agreement_OLA" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "OWASP_Compliance" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Packaging" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Percentage_of_Redundant_code" , "group": 1 , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "id": "Persistent_Identifier_PID" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Plain_text_using_markup_language" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Portability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality, CESSDA Software Maturity Levels (v1. 0), Modelling software quality in the commercial environment" ,"importance": "1270"
+  },
+  { "id": "Presence_of_licenses" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Privacy_policy" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Provide_checksums" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Pull_or_merge_requests" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Recommended_C_Cplusplus_portability_practices" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Register_artifact" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Regression_testing" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Reliability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "id": "Respect_and_follow_standard_file_naming_practices" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Robustness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Sanity_check_your_code_before_release" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Sanity_check_your_documentation_and_READMEs_before_release" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Scalability_testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "SCM_Code_Changes" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "SCM_module_as_code" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "SCM_tool" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Secondary_long_term_branch" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Security_M" , "group": 1 , "evidence": " Modelling software quality in the commercial environment, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "26"
+  },
+  { "id": "Security_Black_box_penetration_testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_code_reviews" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Security_Dynamic_Application_Secuirty_Testing_DAST" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_IaC_Testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_policy_scans" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_requirement_violations" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_risk_assessments" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Security_Security_assessment" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_API_gateway" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_authentication" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_authorization" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_black_box_testing" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_ciphers" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_composition_and_authentication" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_composition_and_authorization" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_credential_and_certification_authority" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_Credential_and_Signatures" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_data_regulations" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Service_public_endpoints_and_APIs" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Trust_and_Signature" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_Vulnerability_scanning" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Security_related_assessment" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Self_Containedness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Self_Descriptiveness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Semantic_Versioning_specification" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Separation_of_main_code_and_units" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Service_Issue_Tracker" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Service_Level_Agreement_SLA" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Service_Tracker_Helpdesk" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "SLOC_ratio" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Source_code_residency" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Standards_Compliance" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Static_application_security_testing_SAST" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Structuredness" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Support" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Sustainable_community" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Team_work" , "group": 1 , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "id": "Test_doubles" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Test_doubles_checked" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Test_doubles_in_SW_repository" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Test_Driven_Development" , "group": 1 , "evidence": " Driving software quality: How test-driven development impacts software quality, A set of common software quality assurance baseline criteria for research projects" ,"importance": "107"
+  },
+  { "id": "Test_your_code_before_release" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Testability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Tests" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Timeliness" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Try_hard_to_choose_a_name_prefix_that_is_unique_and_easy_to_type" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Tutorials" , "group": 1 , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "id": "Understandability" , "group": 1 , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "id": "Unit_testing_coverage_automation" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Unit_testing_coverage_checks" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Usability_M" , "group": 1 , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment, Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "1297"
+  },
+  { "id": "Use_GNU_style_names_with_a_stem_and_major_minor_patch_numbering" , "group": 1 , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "id": "Use_of_OAS" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Use_of_test_doubles" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "User_friend_liness" , "group": 1 , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "id": "Validation_of_features" , "group": 1 , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "id": "Verification_and_Testing" , "group": 1 , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "id": "Version_Control_System" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "id": "Weighted_methods_per_class_WMC_ratio" , "group": 1 , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "id": "Working_state_version" , "group": 1 , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  }
+  ],
+  "links": [
+  { "source": "Adaptability", "target":"Adaptability_M"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Analysability", "target":"Estimated_rebuild_value"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Analysability", "target":"Lines_of_code_per_unit"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Analysability", "target":"Percentage_of_Redundant_code"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Attractiveness", "target":"Customer_satisfaction"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Attractiveness", "target":"Extensibility"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Attractiveness", "target":"User_friend_liness"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Availability", "target":"Monitoring_DAST"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Infrastructure"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Operational_Production_State"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Public_endpoints_and_APIs"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Security"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Service_public_APIs"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Service_Public_endpoints"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Availability", "target":"Monitoring_Service_Web_Interface"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Changeability", "target":"Cyclomatic_Complexity_per_unit_McCabe"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Changeability", "target":"Number_of_incoming_calls_per_module"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Changeability", "target":"Percentage_of_Redundant_code"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Compatibility", "target":"Consistency"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Compatibility", "target":"Ease_of_transition"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Compatibility", "target":"Respect_and_follow_standard_file_naming_practices"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Documentation", "target":"Completeness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Documentation", "target":"Conciseness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Documentation", "target":"Legibility"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Documentation", "target":"Self_Descriptiveness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Documentation", "target":"Understandability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Ease_of_Use", "target":"Communicativeness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Ease_of_Use", "target":"Human_Engineering"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Ease_of_Use", "target":"Legibility"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Ease_of_Use", "target":"Self_Descriptiveness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Ease_of_Use", "target":"Understandability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Functional_Suitability", "target":"Compliant_with_OpenAPI_Specification_OAS"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Elasticity_testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_requirements"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_testing_Feature_disruptions"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_testing_Full_scope"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_testing_Pilot_Testbeds"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_tests_Automatic_checks"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_tests_Stress_testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_tests_Tests_provided_by_developers"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_tests_Varying_loads"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Functional_tests_Web_interface"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Modularity"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"New_functionality"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Regression_testing"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Functional_Suitability", "target":"Security_related_assessment"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Standards_Compliance"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Test_doubles"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Functional_Suitability", "target":"Test_doubles_checked"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Functional_Suitability", "target":"Test_doubles_in_SW_repository"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Functional_Suitability", "target":"Test_Driven_Development"  , "evidence": " Driving software quality: How test-driven development impacts software quality, A set of common software quality assurance baseline criteria for research projects" ,"importance": "107"
+  },
+  { "source": "Functional_Suitability", "target":"Use_of_OAS"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Use_of_test_doubles"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Validation_of_features"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Functional_Suitability", "target":"Verification_and_Testing"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Aut_Deployment_IaC_Templates"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Aut_Deployment_Idempotent_Tests"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Aut_Deployment_Immutable_Infrastructures"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Aut_deployment_Specific_Testing_Frameworks"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Automated_Delivery"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"Build_systems"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Installability", "target":"Code_deployment"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"Make_sure_tarballs_always_unpack_into_a_single_new_directory"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Installability", "target":"Notification_upon_registration"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"Official_repositories"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"Packaging"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"Register_artifact"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"Reliability_M"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Installability", "target":"Scalability_testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Installability", "target":"SCM_Code_Changes"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"SCM_module_as_code"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Installability", "target":"SCM_tool"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Interoperability", "target":"Augmentability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Interoperability", "target":"Consistency"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Maintainability", "target":"Allow_Exceptions"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Architecture_Design"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Automated_code_style_compliance_testing"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Avoid_custom_code_style_guidelines"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Binary_size"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"But_respect_local_conventions_where_appropriate"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Change_Branches"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Choose_the_most_portable_language_you_can"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Code_modularity"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Maintainability", "target":"Code_review_checks"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Code_review_functionality"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Code_reviews_peer_review"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Maintainability", "target":"Complexity_of_a_use_case"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Complexity_of_a_use_case_diagram"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Complexity_of_an_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Complexity_of_diagrams_for_the_whole_software_or_modules_components"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Complexity_of_the_source_code"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Compliance_with_de_facto_style_standard"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Cost_Benefit_efficiency"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Maintainability", "target":"Coupling"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Coupling_between_objects_CBO_ratio"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Maintainability", "target":"Cyclomatic_Complexity_per_unit_McCabe"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Cyclomatic_complexity_test_source_ratio"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Maintainability", "target":"depth_of_inheritance_tree_DIT_ratio"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Maintainability", "target":"Dont_rely_on_proprietary_code"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Estimated_rebuild_value"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Good_development_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_distribution_making_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_licensing_and_copyright_practice_the_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_licensing_and_copyright_practice_the_theory"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_patching_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_project_and_archive_naming_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Good_project_management_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Integrity"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Maintainability", "target":"Internal_cohesion"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Issue_tracker"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Lightweight_and_Informal"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Lines_of_code_per_unit"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Maintainability_M"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Maintainability", "target":"Maintainability_Index_MI_for_the_whole_for_a_module_component_for_the_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Metadata_file_exists"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Minimum_acceptable_code_coverage"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Number_of_Arguments"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Number_of_Comments"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Number_of_Conditions"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Number_of_Include_Files"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Number_of_incoming_calls_per_module"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Number_of_lines"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Number_of_Loops"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Number_of_Modules"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Maintainability", "target":"Number_of_parameters_per_unit"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Number_of_Steps"  , "evidence": " Experiences of software quality management using metrics through the life-cycle" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Open_and_collaborative"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Percentage_of_Redundant_code"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Maintainability", "target":"Provide_checksums"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Pull_or_merge_requests"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Secondary_long_term_branch"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Security_risk_assessments"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Semantic_Versioning_specification"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Separation_of_main_code_and_units"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"SLOC_ratio"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Maintainability", "target":"Support"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Maintainability", "target":"Team_work"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "29"
+  },
+  { "source": "Maintainability", "target":"Test_Driven_Development"  , "evidence": " Driving software quality: How test-driven development impacts software quality, A set of common software quality assurance baseline criteria for research projects" ,"importance": "107"
+  },
+  { "source": "Maintainability", "target":"Try_hard_to_choose_a_name_prefix_that_is_unique_and_easy_to_type"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Unit_testing_coverage_automation"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Unit_testing_coverage_checks"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Maintainability", "target":"Use_GNU_style_names_with_a_stem_and_major_minor_patch_numbering"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Maintainability", "target":"Weighted_methods_per_class_WMC_ratio"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Maintainability", "target":"Working_state_version"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Manageability", "target":"Completeness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Modifiability", "target":"Augmentability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Modifiability", "target":"Modifiability_M"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Modifiability", "target":"Number_of_Comments"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Modifiability", "target":"Structuredness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Operability", "target":"Cumulative_metrics"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Operability", "target":"Defect_rates"  , "evidence": " Driving software quality: How test-driven development impacts software quality" ,"importance": "106"
+  },
+  { "source": "Operability", "target":"Metrics_Active_users"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Operability", "target":"Metrics_Computing_resources"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Operability", "target":"Metrics_Registered_users"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Operability", "target":"Metrics_Storage_resources"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Operability", "target":"Support"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Performance", "target":"Accountability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Performance", "target":"Accuracy"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Performance", "target":"Efficiency"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Performance", "target":"Usability_M"  , "evidence": " Software quality development and assurance in RUP, MSF and XP: a comparative study, Modelling software quality in the commercial environment, CESSDA Software Maturity Levels (v1. 0), Quantitative evaluation of software quality, A systematic review of quality attributes and measures for software product lines" ,"importance": "1399"
+  },
+  { "source": "Portability", "target":"Device_Independence"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Portability", "target":"Portability_M"  , "evidence": " Quantitative evaluation of software quality, CESSDA Software Maturity Levels (v1. 0), Modelling software quality in the commercial environment" ,"importance": "1270"
+  },
+  { "source": "Portability", "target":"Recommended_C_Cplusplus_portability_practices"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Reliability", "target":"Control_measure_to_counter_the_confounding_effect_of_class_size_on_the_prediction_efficiency"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Reliability", "target":"Effort_required_for_changes"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reliability", "target":"Maturity"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reliability", "target":"Monitoring_DAST"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Infrastructure"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Operational_Production_State"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Public_endpoints_and_APIs"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Security"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Service_public_APIs"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Service_Public_endpoints"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Service_Web_Interface"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Monitoring_Unit_tests"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Reliability", "target":"Reliability_M"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Reliability", "target":"Number_of_assertions_SLOC"  , "evidence": " Experiences of software quality management using metrics through the life-cycle, Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "107"
+  },
+  { "source": "Resource_Utilization", "target":"Accountability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Resource_Utilization", "target":"Conciseness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Resource_Utilization", "target":"Efficiency"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Reusability", "target":"Adaptability_M"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Reusability", "target":"Complexity_of_a_use_case"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Complexity_of_a_use_case_diagram"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Complexity_of_an_architecture"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Complexity_of_diagrams_for_the_whole_software_or_modules_components"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Number_of_Comments"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Reusability", "target":"Structuredness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Safety", "target":"Robustness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Security", "target":"Static_application_security_testing_SAST"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Security", "target":"Security_Security_assessment"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_M"  , "evidence": " Modelling software quality in the commercial environment, CESSDA Software Maturity Levels (v1. 0)" ,"importance": "26"
+  },
+  { "source": "Security", "target":"Security_Black_box_penetration_testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_code_reviews"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Security", "target":"Security_Dynamic_Application_Secuirty_Testing_DAST"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_IaC_Testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_policy_scans"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_requirement_violations"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_risk_assessments"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Security", "target":"Security_Security_assessment"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_API_gateway"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_authentication"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_authorization"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_black_box_testing"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_ciphers"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_composition_and_authentication"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_composition_and_authorization"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_credential_and_certification_authority"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_Credential_and_Signatures"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_data_regulations"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Service_public_endpoints_and_APIs"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Trust_and_Signature"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"Security_Vulnerability_scanning"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Security", "target":"OWASP_Compliance"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Security", "target":"Files_Directories_presence"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Security", "target":"Authentication_and_Authorisation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Stability", "target":"Number_of_incoming_calls_per_module"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Stability", "target":"Number_of_parameters_per_unit"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Supportability", "target":"Acceptable_Usage_Policy"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Access_Policy_and_Terms_of_Use"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Available_online"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Code_documentation"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Supportability", "target":"Communicativeness"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Supportability", "target":"Development_Documentation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_M"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_as_Code"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Documentation_Deployment_and_Administration"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_formats"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Documentation_Inaccuracy_and_Unclear_Documentation"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_License"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_Online"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_production"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Documentation_Target_Audience"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_Updates"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_updates_if_inaccurate_unclear"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Documentation_updates_with_new_software_versions"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Documentation_User"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Documentation_Version_controlled"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"End_user_Documentation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Good_communication_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Good_documentation_practice"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Good_practice_recommendations"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Have_a_README"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Intellectual_Property"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Open_source_and_publicly_available"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Open_source_license"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Operational_Documentation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Operational_Level_Agreement_OLA"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Persistent_Identifier_PID"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Plain_text_using_markup_language"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Presence_of_licenses"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Privacy_policy"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Sanity_check_your_documentation_and_READMEs_before_release"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Supportability", "target":"Service_Issue_Tracker"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Service_Level_Agreement_SLA"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Service_Tracker_Helpdesk"  , "evidence": " EOSC-SYNERGY: A set of Common Service Quality Assurance Baseline Criteria for Research Projects" ,"importance": "2"
+  },
+  { "source": "Supportability", "target":"Source_code_residency"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Supportability", "target":"Sustainable_community"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Supportability", "target":"Timeliness"  , "evidence": " Modelling software quality in the commercial environment" ,"importance": "24"
+  },
+  { "source": "Supportability", "target":"Tutorials"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Supportability", "target":"Version_Control_System"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Technical_Accessibility", "target":"Accessbility"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Technical_Accessibility", "target":"Authentication_and_Authorisation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Technical_Accessibility", "target":"Internationalisation_and_Localisation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Technical_Accessibility", "target":"Understandability"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Testability", "target":"Allow_Exceptions"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Automated_code_style_compliance_testing"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Avoid_custom_code_style_guidelines"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Compliance_with_de_facto_style_standard"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Cyclomatic_Complexity_per_unit_McCabe"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Testability", "target":"Lines_of_code_per_unit"  , "evidence": " Software quality through the eyes of the end-user and static analysis tools: A study on android oss applications" ,"importance": "6"
+  },
+  { "source": "Testability", "target":"Minimum_acceptable_code_coverage"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Number_of_assertions_number_of_test_cases"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"Number_of_test_cases_SLOC"  , "evidence": " Early estimation of software quality using in-process testing metrics: a controlled case study" ,"importance": "78"
+  },
+  { "source": "Testability", "target":"Sanity_check_your_code_before_release"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Testability", "target":"Separation_of_main_code_and_units"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Test_your_code_before_release"  , "evidence": " Software Release Practice HOWTO" ,"importance": "11"
+  },
+  { "source": "Testability", "target":"Testability_M"  , "evidence": " Quantitative evaluation of software quality" ,"importance": "1244"
+  },
+  { "source": "Testability", "target":"Tests"  , "evidence": " Achieving quality in open-source software" ,"importance": "303"
+  },
+  { "source": "Testability", "target":"Unit_testing_coverage_automation"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Testability", "target":"Unit_testing_coverage_checks"  , "evidence": " A set of common software quality assurance baseline criteria for research projects" ,"importance": "1"
+  },
+  { "source": "Time_Behavior", "target":"Efficiency"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment" ,"importance": "1268"
+  },
+  { "source": "Usability", "target":"Usability_M"  , "evidence": " Quantitative evaluation of software quality, Modelling software quality in the commercial environment, Software quality development and assurance in RUP, MSF and XP: a comparative study" ,"importance": "1297"
+  },
+  { "source": "Usability", "target":"Internationalisation_and_Localisation"  , "evidence": " CESSDA Software Maturity Levels (v1. 0)" ,"importance": "2"
+  },
+  { "source": "Usability", "target":"Complexity_of_a_use_case"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  },
+  { "source": "Usability", "target":"Complexity_of_a_use_case_diagram"  , "evidence": " A systematic review of quality attributes and measures for software product lines" ,"importance": "100"
+  }
+  ]
+}

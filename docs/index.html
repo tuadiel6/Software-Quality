@@ -166,7 +166,7 @@
 
   const simulation = d3
     .forceSimulation()
-    .velocityDecay(0.1)
+    .velocityDecay(0.5)
     .alphaTarget(0.3)
     .force("collide", d3.forceCollide().radius(20))
     .force(
@@ -214,7 +214,7 @@
 
     const circles = node
       .append("circle")
-      .attr("r", 5)
+      .attr("r", 1)
       .attr("fill", function (d) {
         return color(d.group);
       })
